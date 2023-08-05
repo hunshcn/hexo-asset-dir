@@ -1,0 +1,19 @@
+{
+  "name": "hexo-asset-dir",
+  "version": "0.1.0",
+  "description": "make markdown and asset in the same dir",
+  "dependencies": {
+  },
+  "main": "index.js",
+  "author": "hunshcn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunshcn/hexo-asset-dir.git"
+  },
+  "keywords": [
+    "hexo",
+    "asset",
+    "dir"
+  ]
+}
