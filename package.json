@@ -1,6 +1,6 @@
 {
   "name": "hexo-asset-dir",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "make markdown and asset in the same dir",
   "dependencies": {
   },
